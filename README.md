@@ -6,10 +6,14 @@ Software Developer and Designer
 
 Starting with Javascript and a focus on developing intuitive front-end and back-end solutions, I am constantly making the leap to delve deeper into back-end technology and Python.
 
-*   🌍  I'm based in Los Angeles, CA
-*   ✉️  You can contact me at [ppark051191@gmail.com](mailto:ppark051191@gmail.com)
-*   🧠  I'm learning Django
-*   ⚡  I'm secretly (almost) Spiderman...### Skills 
+* 🌍  I'm based in Los Angeles, CA
+* ✉️  You can contact me at [ppark051191@gmail.com](mailto:ppark051191@gmail.com)
+* 🧠  I'm learning Django
+* ⚡  I'm secretly (almost) Spiderman...
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -39,12 +43,8 @@ Starting with Javascript and a focus on developing intuitive front-end and back-
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/ppark051191" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/peterpark22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ppark051191" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/peterpark22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
